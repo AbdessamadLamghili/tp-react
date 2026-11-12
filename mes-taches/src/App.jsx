@@ -166,7 +166,7 @@ function App() {
           )}
         </Carte>
       </main>
-      <Pied auteur="Kalid EL HAMIDI" />
+      <Pied auteur="Abdessamad lamghili" />
     </div>
   );
 }
